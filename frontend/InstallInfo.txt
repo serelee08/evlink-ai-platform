@@ -1,0 +1,21 @@
+Install Information. //라우팅을 위한 모듈
+
+//terminal에서 모듈 설치.
+yarn add react-router-dom
+yarn add --dev @types/react-router-dom
+
+//
+yarn add react-native 
+yarn add axios
+
+//
+yarn add @mui/material @emotion/react @emotion/styled @mui/lab @mui/x-date-pickers @mui/x-data-grid @mui/icons-material @mui/joy @mui/styled-engine
+yarn add recharts
+yarn add date-fns
+
+yarn add @tosspayments/tosspayments-sdk --save
+yarn add react-i18next
+
+yarn add antd
+yarn add react-markdown remark-gfm rehype-sanitize
+yarn add -D tailwindcss postcss autoprefixer // Tailwind 적용 위한 설치
