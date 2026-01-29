@@ -1,7 +1,7 @@
 # 시스템 아키텍처 개요
 
 
-![EVLink 시스템 아키텍처](./images/architecturejpg)
+![EVLink 시스템 아키텍처](./images/architecture.jpg)
 
 위의 다이어그램은 EVLink 프로젝트의 전체 시스템 구성과
 각 컴포넌트 간 책임 분리를 나타냅니다.
