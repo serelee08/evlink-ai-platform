@@ -34,7 +34,7 @@ EVLink의 REST API 설계 문서입니다. 실제 구현된 기능을 중심으�
 {
   "message": "파주 근처 맛집 추천해줘"
 }
-```  <-- 이 닫는 기호(```)를 추가하세요!
+``` 
 
 - **Success Response (200 OK):**
 ```json
