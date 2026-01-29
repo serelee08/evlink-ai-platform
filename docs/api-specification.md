@@ -16,7 +16,7 @@ OAuth2 소셜 로그인을 모두 지원하며,
 
 ## 1. Authentication Architecture Overview
 
-![Passwordless X1280 Authentication Flow](docs/images/passwordless-x1280-flow.jpg)
+![Passwordless X1280 Authentication Flow](docs/images/passwordless-x1280.jpg)
 
 ```mermaid
 flowchart LR
