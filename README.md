@@ -31,6 +31,13 @@
 
 ---
 
+## 📎 문서
+* 📡 [API Endpoints](./docs/api-endpoints.md)
+* 📋 [API Specification](./docs/api-specification.md)
+* 📐 [System Architecture](./docs/architecture.md)
+
+---
+
 ## 👤 담당 역할 (이지애)
 * **인증 시스템**: Spring Security 기반 OAuth2 SNS 로그인 및 JWT 인증 흐름 구현
 * **AI 연동**: Django 기반 Gemini API 챗봇 서비스 개발
