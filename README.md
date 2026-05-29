@@ -17,7 +17,7 @@
 ---
 ## 📐 System Architecture
 ### 1. Authentication Flow (Passwordless)
-![Auth Flow](./images/passwordless-1280.jpg)
+![Auth Flow](./docs/images/passwordless-1280.jpg)
 * 패스워드 없는 로그인 방식을 도입하여 보안성과 사용자 경험(UX)을 동시 개선했습니다.
 ### 2. AI Sentiment Analysis
 * 커뮤니티 게시글 텍스트를 분석하여 긍/부정 대시보드 형태로 시각화합니다.
